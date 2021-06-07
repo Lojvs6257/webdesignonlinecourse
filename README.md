@@ -6,3 +6,8 @@ This repo contains online web design  using reactjs
 #### heading 4
 ##### heading 5
 ###### heading 6
+
+**This is bold type of font style**
+*This is italic type of font style*
+***This is both bold and italic***
+
