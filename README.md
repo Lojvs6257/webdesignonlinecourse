@@ -11,3 +11,8 @@ This repo contains online web design  using reactjs
 *This is italic type of font style*
 ***This is both bold and italic***
 
+1. Fruits
+  1.Mango
+  2.Orages
+  3.Banana
+ 
