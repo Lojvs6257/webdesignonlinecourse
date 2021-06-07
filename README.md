@@ -12,7 +12,12 @@ This repo contains online web design  using reactjs
 ***This is both bold and italic***
 
 1. Fruits
-  1.Mango
-  2.Orages
-  3.Banana
+   1. Mango
+   2. Orages
+   3. Banana
  
+
+* Vegetables
+   * Tomatoes
+   * Carrots
+   * Onions
